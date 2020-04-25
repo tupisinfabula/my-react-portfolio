@@ -108,11 +108,17 @@
         "category":"Ruby code",
         "image":"ruby-form-bootstrap.jpg",
         "url":"https://www.youtube.com/watch?v=4_4mEtlmAZ8"
+      },
+      {
+        "title":"User Authentication with Devise",
+        "category":"Ruby code",
+        "image":"ruby-user-auth.jpg",
+        "url":"https://www.youtube.com/watch?v=4R6StNnjVlM"
       }
     ]
   },
-  "lifeStyle":{
-    "lifeStyle":[
+  "lifestyle":{
+    "lifestyle":[
       {
         "text":"Good software, like wine, takes time",
         "user":"Joel Spolsky"

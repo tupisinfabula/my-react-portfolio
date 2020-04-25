@@ -4,11 +4,19 @@ import './App.css';
 import Header from './Components/Header';
 import About from './Components/About';
 import Resume from './Components/Resume';
-import LifeStyle from './Components/LifeStyle';
+import Lifestyle from './Components/Lifestyle';
 import Portfolio from './Components/Portfolio';
 import Footer from './Components/Footer';
 
 class App extends Component {
+
+    constructor(props) {
+        super(props);
+        this.state = {
+            foo: 'bar',
+            resumeData: {}
+        };
+    }
 
     getResumeData() {
         $.ajax({
@@ -34,7 +42,7 @@ class App extends Component {
                 <Header data={this.state.resumeData.main}/>
                 <About data={this.state.resumeData.main}/>
                 <Resume data={this.state.resumeData.resume}/>
-                <LifeStyle data={this.state.resumeData.lifeStyle}/>
+                <Lifestyle data={this.state.resumeData.lifestyle}/>
                 <Portfolio data={this.state.resumeData.portfolio}/>
                 <Footer data={this.state.resumeData.main}/>
             </div>
