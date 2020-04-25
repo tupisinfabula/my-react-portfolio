@@ -1,0 +1,126 @@
+{
+  "main": {
+    "name":"Seila Tupone",
+    "occupation":"Software Engineer",
+    "description":"I love coding, maths and travel",
+    "image":"profile.jpg",
+    "bio":"Most people in the world try to avoid problems. Others, like me, love to solve them.I'm a quick learner and a logical thinker who enjoys problem solving.I love math, programming and travelling. They allow me to discover new worlds and to fill my mind with new possibilities.I believe in surrounding myself with positive, talented people because they encourage me to push myself harder day by day.My passion and persistence are fundamental to my happiness, driving me to redefine my limits and to promote the same in those around me",
+    "email": "seila.tupone@gmail.com",
+    "address":{
+      "city":"Milan",
+      "state":"Italy"
+    },
+    "website": "http://www.tupisinfabula.com",
+    "resumedownload":"http://tupisinfabula.com",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/seilatupone/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/tupisinfabula",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/tupisinfabula/",
+        "className":"fa fa-instagram"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here some of my skills.",
+    "education":[
+      {
+        "school":"Toronto Bitmaker Bootcamp, Canada",
+        "degree":"Full Stack Web Developer",
+        "graduated":"May 2016 - July 2016",
+        "description":""
+      },
+      {
+        "school":"St.Charles English School, Canada",
+        "degree":"English Language, Toefl Class",
+        "graduated":"2015 - 2016",
+        "description":""
+      },
+      {
+        "school":"University of Bologna, Italy",
+        "degree":" Bachelor in Computer Science",
+        "graduated":"Sept 2006 - March 2010",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"Fit2You Broker Srl, Milan, Italy",
+        "title":"Software Engineer",
+        "years":"May 2017 - Present",
+        "description":"IT Team Leader. Full lifecycle application development, analysis of suitable solutions to business requests, software testing and quality assurance."
+      },
+      {
+        "company":"ForecastXL, Groningen, Netherlands",
+        "title":"Ruby Developer",
+        "years":"Nov - Dec 2016",
+        "description":"Focus on writing test code using MiniTest and FactoryGirl. Worked with D3 Javascript library to show data."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Ruby/Ruby on Rails",
+        "level":"100%"
+      },
+      {
+        "name":"Javascript/Node js",
+        "level":"75%"
+      },
+      {
+        "name":"PostegresSQL",
+        "level":"90%"
+      },
+      {
+        "name":"Rest APIs",
+        "level":"90%"
+      },
+      {
+        "name":"AWS",
+        "level":"60%"
+      },
+      {
+        "name":"React",
+        "level":"40%"
+      },
+      {
+        "name":"GraphQL",
+        "level":"40%"
+      },
+      {
+        "name":"Git",
+        "level":"90%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Form with bootstrap-sass and simple form gem",
+        "category":"Ruby code",
+        "image":"ruby-form-bootstrap.jpg",
+        "url":"https://www.youtube.com/watch?v=4_4mEtlmAZ8"
+      }
+    ]
+  },
+  "lifeStyle":{
+    "lifeStyle":[
+      {
+        "text":"Good software, like wine, takes time",
+        "user":"Joel Spolsky"
+      },
+      {
+        "text": "Follow your curiosity and make mistakes. A person who never made a mistake never tried anything new",
+        "user": "Albert Einstein"
+      }
+    ]
+  }
+}
