@@ -10,7 +10,10 @@
     "jquery": "^3.5.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-magnific-popup": "^1.0.1",
+    "react-script-tag": "^1.1.2",
+    "react-scripts": "3.4.1",
+    "react-waypoint": "^9.0.2"
   },
   "scripts": {
     "predeploy": "npm run build",
@@ -36,6 +39,7 @@
     ]
   },
   "devDependencies": {
+    "babel-install": "2.1.0",
     "gh-pages": "^2.2.0"
   }
 }
